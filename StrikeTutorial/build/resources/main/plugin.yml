@@ -1,0 +1,6 @@
+name: StrikeTutorial
+version: 1.0-SNAPSHOT
+main: br.com.thiaago.striketutorial.StrikeTutorial
+authors: [ Quiabo ]
+description: Plugin feito para o servidor StrikeMC
+website: www.lojastrikemc.tk
