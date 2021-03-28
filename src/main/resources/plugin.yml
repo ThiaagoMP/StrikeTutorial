@@ -1,0 +1,10 @@
+name: StrikeTutorial
+version: 1.0
+main: br.com.thiaago.striketutorial.StrikeTutorial
+commands:
+  tutorial:
+  tutorialexit:
+  tutorialreload:
+authors: [ Quiabo ]
+description: Plugin feito para o servidor StrikeMC
+website: www.lojastrikemc.tk
